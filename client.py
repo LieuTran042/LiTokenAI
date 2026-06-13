@@ -21,3 +21,4 @@ print("Server trả về:", response)
 
 # Đóng kết nối
 client.close()
+print(" Đã đóng kết nối với server")
