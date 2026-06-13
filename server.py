@@ -1,5 +1,5 @@
 import socket
-
+//đây là của Lieu
 # Khởi tạo socket
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
